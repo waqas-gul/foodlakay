@@ -14,13 +14,13 @@
 
 <div align="center">
   <h3>2. Add-to-Cart Flow</h3>
-  <img src="/screenshots/add-to-cart.png" alt="Cart Interaction" width="60%">
+  <img src="/1920 - STORE.png" alt="Cart Interaction" width="60%">
   <p>Real-time cart updates with ingredient customization options</p>
 </div>
 
 <div align="center">
   <h3>3. Mobile Experience</h3>
-  <img src="/screenshots/mobile-view.png" alt="Mobile View" width="30%">
+  <img src="/1921 - HOME.png" alt="Mobile View" width="30%">
   <p>Optimized for on-the-go ordering with touch-friendly UI</p>
 </div>
 
